@@ -1,0 +1,33 @@
+{
+  "fajr": {
+    "adhan": "05:42",
+    "iqama": "05:57"
+  },
+  "dhuhr": {
+    "adhan": "13:04",
+    "iqama": "13:30"
+  },
+  "asr": {
+    "adhan": "16:22",
+    "iqama": "16:32"
+  },
+  "maghrib": {
+    "adhan": "19:03",
+    "iqama": "19:08"
+  },
+  "isha": {
+    "adhan": "20:25",
+    "iqama": "20:30"
+  },
+  "jumuah": [
+    {
+      "time": "12:20",
+      "language": "Français"
+    },
+    {
+      "time": "13:30",
+      "language": "العربية"
+    }
+  ],
+  "lastUpdated": "2025-03-16T16:23:43.632Z"
+}
